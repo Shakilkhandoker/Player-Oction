@@ -76,3 +76,12 @@ input {
 .padding {
   padding: 7px;
 }
+li{
+  display: flex;
+  gap: 20px;
+  width: 250px;
+  margin: auto;
+  text-align: center;
+  list-style: numeric;
+  
+}
